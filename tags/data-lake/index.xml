@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data lake on </title>
+    <link>https://akshay2agarwal.github.io/tags/data-lake/</link>
+    <description>Recent content in data lake on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Akshay Agarwal 2020</copyright>
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://akshay2agarwal.github.io/tags/data-lake/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Origins of Data Lake at Grofers</title>
+      <link>https://akshay2agarwal.github.io/posts/origins_of_data_lake_at_grofers/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://akshay2agarwal.github.io/posts/origins_of_data_lake_at_grofers/</guid>
+      <description>Originally published over lambda.grofers.com
+The Beginning As Data Engineers at the biggest online grocery company in India, one of our major challenges is to democratize data across the organization. But, when we began evaluating how well we were doing on this goal, we realized that frequent errors in our data pipelines had caused our business teams to lose confidence in data. As a result, they were never sure which data source is correct and apt to use for their analyses and had to consult the data platform team at every step.</description>
+    </item>
+    
+  </channel>
+</rss>
